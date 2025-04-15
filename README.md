@@ -1,2 +1,2 @@
 # FacultadUNSL
-proyectos de los practicos
+Proyectos de la materias de Ing. Informática
